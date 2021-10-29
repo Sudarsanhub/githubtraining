@@ -3,3 +3,5 @@ This is a chart application
 Emoji
 Colours
 vibrant
+Dark mode
+video calls
